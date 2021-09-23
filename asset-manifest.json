@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/CaptainPrice29/todo.git/static/css/main.b5dfa4c6.chunk.css",
+    "main.js": "/CaptainPrice29/todo.git/static/js/main.b90711f7.chunk.js",
+    "main.js.map": "/CaptainPrice29/todo.git/static/js/main.b90711f7.chunk.js.map",
+    "runtime-main.js": "/CaptainPrice29/todo.git/static/js/runtime-main.b0ad70a9.js",
+    "runtime-main.js.map": "/CaptainPrice29/todo.git/static/js/runtime-main.b0ad70a9.js.map",
+    "static/css/2.b94abea2.chunk.css": "/CaptainPrice29/todo.git/static/css/2.b94abea2.chunk.css",
+    "static/js/2.305bfea0.chunk.js": "/CaptainPrice29/todo.git/static/js/2.305bfea0.chunk.js",
+    "static/js/2.305bfea0.chunk.js.map": "/CaptainPrice29/todo.git/static/js/2.305bfea0.chunk.js.map",
+    "index.html": "/CaptainPrice29/todo.git/index.html",
+    "static/css/2.b94abea2.chunk.css.map": "/CaptainPrice29/todo.git/static/css/2.b94abea2.chunk.css.map",
+    "static/css/main.b5dfa4c6.chunk.css.map": "/CaptainPrice29/todo.git/static/css/main.b5dfa4c6.chunk.css.map",
+    "static/js/2.305bfea0.chunk.js.LICENSE.txt": "/CaptainPrice29/todo.git/static/js/2.305bfea0.chunk.js.LICENSE.txt",
+    "static/media/mdb.css": "/CaptainPrice29/todo.git/static/media/arrow_right.f7c6ac6d.svg",
+    "static/media/all.min.css": "/CaptainPrice29/todo.git/static/media/fa-solid-900.eeccf4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b0ad70a9.js",
+    "static/css/2.b94abea2.chunk.css",
+    "static/js/2.305bfea0.chunk.js",
+    "static/css/main.b5dfa4c6.chunk.css",
+    "static/js/main.b90711f7.chunk.js"
+  ]
+}
